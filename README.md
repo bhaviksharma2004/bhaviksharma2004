@@ -1,1 +1,1 @@
-Hi ![image]([https://github.com/bhaviksharma2004/bhaviksharma2004/assets/130035063/1b7640e8-0b02-416f-a25a-72427ef30cfc](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)) My name is Bhavik Sharma
+Hi [SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif](https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif) My name is Bhavik Sharma
