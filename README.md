@@ -4,7 +4,7 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 
 👨‍💻 Name: Bhavik Sharma, a 3rd year BE CSE student at Chitkara University.
 
-🧠 Programming Skills: C++, C, Data Stuctures.
+🧠 Programming Skills: C++, C.
 
 ⚽ Interests: Problem Solving.
 
@@ -13,7 +13,7 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 # Journey into My GitHub Repositories:
 💼 Here are some projects that you might like:
 
-DBMS: Created my own database management system which require no language.
+DBMS: Created Menu-driven Database Management System.
 
 Fetal_Health_Classifier: A machine learning project.
 
