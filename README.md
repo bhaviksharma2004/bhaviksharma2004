@@ -13,8 +13,10 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 # Journey into My GitHub Repositories:
 💼 Here are some projects that you might like:
 
-DBMS: Created Menu-driven Database Management System.
+C-Project: Created Menu-driven Database Management System.
 
-Fetal_Health_Classifier: A machine learning project.
+Web-Development(Used React): "Movemend", connecting customers to physical therapists.
+
+AIML-Project: Fetal_Health_Classifier, a machine learning project.
 
 Feel free to explore other projects and maybe fork or star them ☺️.
