@@ -1,4 +1,4 @@
-# Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/bhaviksharma2004/bhaviksharma2004/assets/130035063/39e9fa2e-690c-4fc9-8b03-f59b79eb7d83) My name is Bhavik Sharma
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=F7F7F7&width=700&height=65&lines=Hi+my+name+is+Bhavik+Sharma%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Heyyy, Welcome to my github profile, I hope you find something interesting here!
 
