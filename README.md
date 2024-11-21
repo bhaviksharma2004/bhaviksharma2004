@@ -15,8 +15,6 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 
 C-Project: Created Menu-driven Database Management System.
 
-Web-Development(Used React): "Movemend", connecting customers to physical therapists.
-
 AIML-Project: Fetal_Health_Classifier, a machine learning project.
 
 Feel free to explore other projects and maybe fork or star them ☺️.
