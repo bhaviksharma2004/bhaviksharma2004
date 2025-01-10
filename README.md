@@ -15,7 +15,7 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 
 TheraMotion (Full-Stack Project): Created a healthcare service providing platform that enables users to book healthcare services effortlessly.
 
-C-Project: Created Menu-driven Database Management System.
+DBMS (C-Project): Created Menu-driven Database Management System.
 
 AIML-Project: Fetal_Health_Classifier, a machine learning project.
 
