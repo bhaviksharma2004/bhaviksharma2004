@@ -13,7 +13,7 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 # Journey into My GitHub Repositories:
 💼 Here are some projects that you might like:
 
-TheraMotion (Full-Stack Project): Created a healthcare service providing platform that enables users to book healthcare services effortlessly.
+TheraMotion (MERN Project): Created a healthcare service providing platform that enables users to book healthcare services effortlessly.
 
 DBMS (C-Project): Created Menu-driven Database Management System.
 
