@@ -4,7 +4,7 @@ Heyyy, Welcome to my github profile, I hope you find something interesting here!
 
 👨‍💻 Name: Bhavik Sharma, a 3rd year BE CSE student at Chitkara University.
 
-🧠 Programming Skills: C++, C.
+🧠 Programming Skills: C++, C, Java, SQL.
 
 ⚽ Interests: Problem Solving.
 
